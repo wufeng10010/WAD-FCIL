@@ -231,7 +231,7 @@ class WAD_model:
 
         return res
 
-    # 获得损失
+    # 
     def _compute_loss(self, indexs, imgs, labels):
 
 
