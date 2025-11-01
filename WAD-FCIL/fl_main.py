@@ -9,7 +9,6 @@ import os.path as osp
 import os
 from myNetwork import network, LeNet
 from Fed_utils import *
-from ProxyServer import *
 from mini_imagenet import *
 from tiny_imagenet import *
 from option import args_parser
